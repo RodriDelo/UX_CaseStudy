@@ -6,7 +6,7 @@
 
 
 
-<img align="center" src="./img/ecologic.png" width="600" height=auto alt="Logotipo"/>
+<img align="center" src="./img/Verduricas.png" width="600" height=auto alt="Logotipo"/>
 
 
 
