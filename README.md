@@ -58,8 +58,6 @@ Miembros:
 ![Francisco López](P1/Persona1.png)
 ![Pedro Pérez](P1/Persona2.png)
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
