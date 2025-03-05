@@ -3,6 +3,7 @@
 
 - Desk research: Análisis Competencia 
 - 2 Personas
+  
   ![P1](Persona1.png)
   ![P2](Persona2.png)
 - 2 User Journey Map  ( 1 por persona)
