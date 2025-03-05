@@ -55,7 +55,6 @@ Miembros:
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
 ![Francisco López](img/Persona1.png)
 ![Pedro Pérez](img/Persona2.png)
 
