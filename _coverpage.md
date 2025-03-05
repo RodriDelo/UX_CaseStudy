@@ -6,7 +6,7 @@
 
 
 
-<img align="center" src="./img/logo_diu25_mini.png" width="600" height=auto alt="Logotipo"/>
+<img align="center" src="./img/avion.png" width="600" height=auto alt="Logotipo"/>
 
 
 
