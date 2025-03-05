@@ -2,7 +2,9 @@
 
 
 - Desk research: Análisis Competencia 
-- 2 Personas 
+- 2 Personas
+  ![Método UX](Persona1.png)
+  ![Método UX](P1/Persona2.png)
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
