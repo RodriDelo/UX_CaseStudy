@@ -6,7 +6,10 @@
   
   ![P1](Persona1.png)
   ![P2](Persona2.png)
+  
 - 2 User Journey Map  ( 1 por persona)
+  ![P1](UserJourney-1.png)
+  
 - Revisión de Usabilidad 
 
 
