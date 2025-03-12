@@ -61,7 +61,7 @@ Miembros:
 
 ### 1.d User Journey Map
 ![Journey Map Pedro Pérez](img/Journey_Map_Persona2.png) 
-![UserJourney](img/UsuerJourney-1.png) 
+![UserJourney](img/UserJourney-1.png) 
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
