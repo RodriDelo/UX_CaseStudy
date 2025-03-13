@@ -1,7 +1,8 @@
 ## DIU - Practica1, entregables
 
 
-- Desk research: Análisis Competencia 
+- Desk research: Análisis Competencia
+  ![AC](analisis.png)
 - 2 Personas
   
   ![P1](Persona1.png)
