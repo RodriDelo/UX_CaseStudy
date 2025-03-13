@@ -44,7 +44,13 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Los mercados ecológicos en Granada, como el EcoMercado de Granada y la asociación Valle y Vega, representan iniciativas clave en la promoción del consumo sostenible y de proximidad. Estos espacios fomentan la compra directa de productos ecológicos, impulsando la economía local y reduciendo el impacto ambiental derivado del transporte y la producción industrializada.
+
+Para comprender mejor este ecosistema, el estudio se centrará en los hábitos, necesidades y expectativas de los diferentes perfiles implicados: consumidores, productores y organizadores de estos mercados. Se investigará qué motiva a los usuarios a elegir estos mercados frente a alternativas convencionales, cuáles son las principales barreras que encuentran y qué mejoras podrían implementarse para optimizar su experiencia.
+
+La estrategia de investigación incluirá métodos cualitativos y cuantitativos: entrevistas con compradores y vendedores, observaciones en los mercados y encuestas para analizar patrones de consumo. Además, se estudiará el impacto de la digitalización en la comercialización de productos ecológicos.
+
+El objetivo final es encontrar puntos clave que permitan mejorar la experiencia de los usuarios y potenciar el crecimiento de estos mercados ecológicos en Granada. 
 
 
 ### 1.b Competitive Analysis
