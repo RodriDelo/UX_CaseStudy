@@ -56,6 +56,7 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+![Analisis_Competitivo](P1/analisis.png) 
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
