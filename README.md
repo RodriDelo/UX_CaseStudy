@@ -44,13 +44,13 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-Los mercados ecológicos en Granada, como el EcoMercado de Granada y la asociación Valle y Vega, representan iniciativas clave en la promoción del consumo sostenible y de proximidad. Estos espacios fomentan la compra directa de productos ecológicos, impulsando la economía local y reduciendo el impacto ambiental derivado del transporte y la producción industrializada.
+Los mercados ecológicos en Granada, como a saber, el EcoMercado de Granada y la asociación Valle y Vega son dos de las iniciativas más conocidas en el fomento del consumo sostenible y local. A través de estos espacios, los clientes adquieren productos orgánicos de manera directa, estimulando así a la economía local e introduciendo un menor impacto ambiental, considerando el transporte y la producción rápida industrial.
 
-Para comprender mejor este ecosistema, el estudio se centrará en los hábitos, necesidades y expectativas de los diferentes perfiles implicados: consumidores, productores y organizadores de estos mercados. Se investigará qué motiva a los usuarios a elegir estos mercados frente a alternativas convencionales, cuáles son las principales barreras que encuentran y qué mejoras podrían implementarse para optimizar su experiencia.
+El presente estudio abordará el ecosistema de los mencionados mercados, centrándose en los hábitos, las necesidades y las expectativas de sus integrantes-base: los clientes, los propietarios de los puestos y los organizadores. El estudio se enfocará en la motivación detrás de la elección de los usuarios, las barreras de acceso y las oportunidades de mejora.
 
-La estrategia de investigación incluirá métodos cualitativos y cuantitativos: entrevistas con compradores y vendedores, observaciones en los mercados y encuestas para analizar patrones de consumo. Además, se estudiará el impacto de la digitalización en la comercialización de productos ecológicos.
+La estrategia de investigación incluirá tanto métodos cualitativos como cuantitativos: Entrevistas con compradores y vendedores, observaciones en los mercados y encuestas para analizar patrones de consumo de los compradores. Además, se estudiará el impacto de la digitalización en la comercialización de productos ecológicos.
 
-El objetivo final es encontrar puntos clave que permitan mejorar la experiencia de los usuarios y potenciar el crecimiento de estos mercados ecológicos en Granada. 
+El objetivo final es encontrar puntos clave que permitan mejorar la experiencia de los usuarios y potenciar el crecimiento de estos mercados ecológicos en Granada.
 
 
 ### 1.b Competitive Analysis
