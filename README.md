@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Mercados Sostenibles )
 
 Grupo: DIU1_AmbosMarcan.  Curso: 2024/25 
 
-Actualizado: 26/02/2025
+Actualizado: 13/03/2025
 
 Proyecto: 
 
