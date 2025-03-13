@@ -44,7 +44,7 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-Los mercados ecológicos en Granada, como a saber, el EcoMercado de Granada y la asociación Valle y Vega son dos de las iniciativas más conocidas en el fomento del consumo sostenible y local. A través de estos espacios, los clientes adquieren productos orgánicos de manera directa, estimulando así a la economía local e introduciendo un menor impacto ambiental, considerando el transporte y la producción rápida industrial.
+Los mercados ecológicos en Granada como el EcoMercado de Granada y la asociación Valle y Vega, son dos iniciativas conocidas en el fomento del consumo sostenible y local. A través de estos espacios, los clientes adquieren productos orgánicos de manera directa, favoreciendo así a la economía local y produciendo un menor impacto ambiental, considerando el transporte y la producción rápida industrial.
 
 El presente estudio abordará el ecosistema de los mencionados mercados, centrándose en los hábitos, las necesidades y las expectativas de sus integrantes-base: los clientes, los propietarios de los puestos y los organizadores. El estudio se enfocará en la motivación detrás de la elección de los usuarios, las barreras de acceso y las oportunidades de mejora.
 
