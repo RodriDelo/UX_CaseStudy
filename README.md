@@ -65,9 +65,13 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 ![Pedro Pérez](P1/Persona2.png)
 
 
-### 1.d User Journey Map
-![Journey Map Pedro Pérez](img/Journey_Map_Persona2.png) 
+### 1.d User Journey Map!
 ![UserJourney](img/UserJourney-1.png) 
+
+- Escenario: El escenario que sufre Pedro es mas común de lo que nos creemos, España es un país con muchísimo ámbito rural lo que implica que mucha gente vive en el campo, muchas veces alejada de incluso otras fincas o casas.
+             Por eso me ha parecido interesante cubrir este escenario que en el tema de los mercados sostenibles le puede ocurrir a mucha más gente de la que nos imaginamos.
+![Journey Map Pedro Pérez](img/Journey_Map_Persona2.png) 
+
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
