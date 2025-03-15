@@ -55,7 +55,7 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 -----
 ![Analisis_Competitivo](P1/analisis.png) 
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+>>> Nos hemos decantado por Espacio Organico, esto se debe a que nos ha parecido la pagina mas completa de las 3 que hemos evaludado, y la que nos puede ayudar mas a mejorar nuestra pagina y a hacerla mas completa y con el menor numero de fallos.
 
 
 ### 1.c Personas
