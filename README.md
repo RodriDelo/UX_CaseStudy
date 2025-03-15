@@ -37,9 +37,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
@@ -67,22 +64,19 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 
 
 ### 1.d User Journey Map!
+- Escenario: La situacion de Francisco no es muy comun en general pero si más comun en el mundo del futbol, le comunicaron que tenía que hacer una dieta para subir de peso y aumentar su masa muscular de calidad, por ello, Fran decide informarse en la compra online ya que es mucho mas comodo y ademas con productos locales y no tan procesados como los de las grandes cadenas de supermercados.
 ![UserJourney](img/UserJourney-1.png) 
 
 - Escenario: El escenario que sufre Pedro es mas común de lo que nos creemos, España es un país con muchísimo ámbito rural lo que implica que mucha gente vive en el campo, muchas veces alejada de incluso otras fincas o casas.
              Por eso me ha parecido interesante cubrir este escenario que en el tema de los mercados sostenibles le puede ocurrir a mucha más gente de la que nos imaginamos.
 ![Journey Map Pedro Pérez](img/Journey_Map_Persona2.png) 
 
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
-
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
+>>> - Enlace al documento:  (P1/Usability-review.xlsx) 
 >>> - URL y Valoración numérica obtenida:
 >>>   - URL: espacioorganico.com
 >>>   - Valoracion: 78 (Good)   
