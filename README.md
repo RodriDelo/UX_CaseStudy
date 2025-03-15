@@ -84,8 +84,8 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida:
->>>     -URL: espacioorganico.com
->>>     -Valoracion: 78 (Good)   
+>>>   -URL: espacioorganico.com
+>>>   -Valoracion: 78 (Good)   
 >>> - Comentario sobre la revisión:
 >>>   - En los puntos fuertes hemos visto que la pagina tiene una gran variedad de productos y se ve muy atractica, pero flaquea sobretodo en la explicacion de errores y en el lenguaje que ultiliza, el cual a veces puede no ser el adecuado para gente que no esta acostumbrada a este tipo de paginas.
 
