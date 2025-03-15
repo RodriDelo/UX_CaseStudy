@@ -60,8 +60,8 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 
 ### 1.c Personas
 ![Francisco López](P1/Persona1.png)
-![Pedro Pérez](P1/Persona2.png)
-
+![Pedro Pérez](P1/Persona2.png)ç
+-----
 
 ### 1.d User Journey Map!
 - Escenario: La situacion de Francisco no es muy comun en general pero si más comun en el mundo del futbol, le comunicaron que tenía que hacer una dieta para subir de peso y aumentar su masa muscular de calidad, por ello, Fran decide informarse en la compra online ya que es mucho mas comodo y ademas con productos locales y no tan procesados como los de las grandes cadenas de supermercados.
@@ -76,7 +76,7 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (P1/Usability-review.xlsx) 
+>>> - Enlace al documento:  ![Enlace-Usability-review](P1/Usability-review.xlsx) 
 >>> - URL y Valoración numérica obtenida:
 >>>   - URL: espacioorganico.com
 >>>   - Valoracion: 78 (Good)   
