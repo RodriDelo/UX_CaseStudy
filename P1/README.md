@@ -3,8 +3,10 @@
 
 - Desk research: Análisis Competencia
   ![AC](analisis.png)
-- 2 Personas
+  >>> Nos hemos decantado por Espacio Organico, nos ha parecido la pagina mas completa, la que mejor sensaciones nos dió usandola y por algunos detalles de uso por ejemplo de productos populares en el buscador, que se te muestre un mensaje al añadir al carrito, mayor rapidez y opciones de envío.
+  >>> Por tanto pensamos que EspacioOrganico es la opción que más nos puede ayudar a mejorar nuestra pagina y a hacerla mas completa y con el menor numero de fallos.
   
+- 2 Personas
   ![P1](Persona1.png)
   ![P2](Persona2.png)
   
