@@ -68,9 +68,11 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 
 ### 1.d User Journey Map
 >>> Escenario:A Francisco le comunicaron que tenía que subir de peso y aumentar su masa muscular de calidad, por ello decide este tipo de compra online, pero su experiencia no fue buena en cuanto a usos y espectativas cumplidas.
+
 ![UserJourney](img/UserJourney-1.png) 
 
 >>> Escenario: Pedro vive en el campo, alejado de incluso otras fincas o casas, por eso nos ha parecido interesante cubrir este escenario de que no se encuentre la direccion o haya problemas con las entregas.
+
 ![Journey Map Pedro Pérez](img/Journey_Map_Persona2.png) 
 
 ### 1.e Usability Review
