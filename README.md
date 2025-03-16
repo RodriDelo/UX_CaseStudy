@@ -63,7 +63,7 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 >>> Hemos elegido a Francisco para poner ejemplo de personas deportistas, ya sea futbol o cualquier otro deporte, ya que la gente profesional cuida mucho su dieta para seguir en la élite del deporte, por ello intentamos con el ejemplo de esta persona, llegar a que mas deportistas que quieren subir su nivel se sientan identificados y basen su dieta en productos de calidad, y no en los típicos procesados de algunos supermercados que "dicen" tener proteina por ejemplo y luego estan llenos de procesados.
 
 ![Pedro Pérez](P1/Persona2.png)
->>> A Pedro lo hemos elegido porque 
+>>> A Pedro lo hemos elegido porque muestra como el conocimiento de los productos naturales y que son mucho mas sanos que los procesados, por esa razon el prepara siempre la comida de su padre con productos naturales y artesanos, se puede ver al ser una persona criada en el campo su gran habilidad para desenvolverse en estos ambitos, tambien las muchas responsabilidades que tiene a su temprana edad han sido un punto a tener en cuenta para su elección.
 -----
 
 ### 1.d User Journey Map
