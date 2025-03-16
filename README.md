@@ -60,15 +60,14 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 
 ### 1.c Personas
 ![Francisco López](P1/Persona1.png)
-![Pedro Pérez](P1/Persona2.png)ç
+![Pedro Pérez](P1/Persona2.png)
 -----
 
-### 1.d User Journey Map!
+### 1.d User Journey Map
 - Escenario: La situacion de Francisco no es muy comun en general pero si más comun en el mundo del futbol, le comunicaron que tenía que hacer una dieta para subir de peso y aumentar su masa muscular de calidad, por ello, Fran decide informarse en la compra online ya que es mucho mas comodo y ademas con productos locales y no tan procesados como los de las grandes cadenas de supermercados.
 ![UserJourney](img/UserJourney-1.png) 
 
-- Escenario: El escenario que sufre Pedro es mas común de lo que nos creemos, España es un país con muchísimo ámbito rural lo que implica que mucha gente vive en el campo, muchas veces alejada de incluso otras fincas o casas.
-             Por eso me ha parecido interesante cubrir este escenario que en el tema de los mercados sostenibles le puede ocurrir a mucha más gente de la que nos imaginamos.
+- Escenario: El escenario que sufre Pedro es mas común de lo que nos creemos, España es un país con muchísimo ámbito rural lo que implica que mucha gente vive en el campo, muchas veces alejada de incluso otras fincas o casas. Por eso me ha parecido interesante cubrir este escenario que en el tema de los mercados sostenibles le puede ocurrir a mucha más gente de la que nos imaginamos.
 ![Journey Map Pedro Pérez](img/Journey_Map_Persona2.png) 
 
 ### 1.e Usability Review
