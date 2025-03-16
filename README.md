@@ -67,10 +67,10 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 -----
 
 ### 1.d User Journey Map
-- Escenario: La situacion de Francisco no es muy comun en general pero si más comun en el mundo del futbol, le comunicaron que tenía que hacer una dieta para subir de peso y aumentar su masa muscular de calidad, por ello, Fran decide informarse en la compra online ya que es mucho mas comodo y ademas con productos locales y no tan procesados como los de las grandes cadenas de supermercados.
+>>> Escenario:A Francisco le comunicaron que tenía que subir de peso y aumentar su masa muscular de calidad, por ello decide este tipo de compra online, pero su experiencia no fue buena en cuanto a usos y espectativas cumplidas.
 ![UserJourney](img/UserJourney-1.png) 
 
-- Escenario: El escenario que sufre Pedro es mas común de lo que nos creemos, España es un país con muchísimo ámbito rural lo que implica que mucha gente vive en el campo, muchas veces alejada de incluso otras fincas o casas. Por eso me ha parecido interesante cubrir este escenario que en el tema de los mercados sostenibles le puede ocurrir a mucha más gente de la que nos imaginamos.
+>>> Escenario: Pedro vive en el campo, alejado de incluso otras fincas o casas, por eso nos ha parecido interesante cubrir este escenario de que no se encuentre la direccion o haya problemas con las entregas.
 ![Journey Map Pedro Pérez](img/Journey_Map_Persona2.png) 
 
 ### 1.e Usability Review
