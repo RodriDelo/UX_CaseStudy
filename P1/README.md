@@ -19,10 +19,12 @@
 - 2 User Journey Map  ( 1 por persona)
   >>> Escenario: La situacion de Francisco no es muy comun en general pero si más comun en el mundo del futbol, le comunicaron que tenía que hacer una dieta para subir de peso y aumentar su masa muscular de calidad, por ello, Fran decide informarse en la compra online ya que es mucho mas comodo y ademas con productos locales y no tan procesados como los de las grandes cadenas de supermercados.
 >>>Tuvo varios problemas con la pagina que encontró, y no quedo muy satisfecho con su experiencia, debido a problemas como acciones con respuestas lentas, falta de estructuración en la página, entrega algo tardía para sus espectativas y sin posibilidad de envío express.
+
   ![P1](UserJourney-1.png)
 
 >>> Escenario: El escenario que sufre Pedro es mas común de lo que nos creemos, España es un país con muchísimo ámbito rural lo que implica que mucha gente vive en el campo, muchas veces alejada de incluso otras fincas o casas. Por eso nos ha parecido interesante cubrir este escenario que en el tema de los mercados sostenibles le puede ocurrir a mucha más gente de la que nos imaginamos.
 >>> Estos casos también hay que tenerlos en cuenta y poner varias opciones de envio, contactar con el cliente si al momento de repartir no se ubica bien, ademas de que el cliente pueda disponer de acciones como buscar puntos de recogida cercanos, o dar detalles sobre la dirección.
+
   ![P2](Journey_Map_Persona2.png)
   
 - Revisión de Usabilidad
