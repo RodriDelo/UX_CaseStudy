@@ -18,7 +18,7 @@
   
 - 2 User Journey Map  ( 1 por persona)
   >>> Escenario: La situacion de Francisco no es muy comun en general pero si más comun en el mundo del futbol, le comunicaron que tenía que hacer una dieta para subir de peso y aumentar su masa muscular de calidad, por ello, Fran decide informarse en la compra online ya que es mucho mas comodo y ademas con productos locales y no tan procesados como los de las grandes cadenas de supermercados.
->>>Tuvo varios problemas con la pagina que encontró, y no quedo muy satisfecho con su experiencia, debido a problemas como acciones con respuestas lentas, falta de estructuración en la página, entrega algo tardía para sus espectativas y sin posibilidad de envío express.
+>>> Tuvo varios problemas con la pagina que encontró, y no quedo muy satisfecho con su experiencia, debido a problemas como acciones con respuestas lentas, falta de estructuración en la página, entrega algo tardía para sus espectativas y sin posibilidad de envío express.
 
   ![P1](UserJourney-1.png)
 
