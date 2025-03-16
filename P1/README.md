@@ -7,6 +7,7 @@
   >>> Por tanto pensamos que EspacioOrganico es la opción que más nos puede ayudar a mejorar nuestra pagina y a hacerla mas completa y con el menor numero de fallos.
   
 - 2 Personas
+
   ![P1](Persona1.png)
   ![P2](Persona2.png)
   
