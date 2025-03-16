@@ -15,6 +15,5 @@
 - Revisión de Usabilidad
   ![Enlace-A-Usability-Review](Usability-review.xlsx)
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+>>>> Como valoración final de esta practica podemos decir que nos ha hecho pensar y recordar la gran cantidad de buenos productos que tenemos cerca, pero simplemente no tienen visibilidad, también la diferencia de los productos por ejemplo un producto cuidado en el campo de manera natural, a un producto criado en invernaderos y con cantidades de conservantes con el objetivo de vender.
+>>>> En esta practica hemos encontrado páginas únicas que solucionan estos problemas, cada una a su forma y con sus ideas. 
