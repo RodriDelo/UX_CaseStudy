@@ -28,7 +28,13 @@
   ![P2](Journey_Map_Persona2.png)
   
 - Revisión de Usabilidad
-  ![Enlace-A-Usability-Review](Usability-review.xlsx)
+  ![Método UX](img/usabilityReview.png) 
+----
 
->>>> Como valoración final de esta practica podemos decir que nos ha hecho pensar y recordar la gran cantidad de buenos productos que tenemos cerca, pero simplemente no tienen visibilidad, también la diferencia de los productos por ejemplo un producto cuidado en el campo de manera natural, a un producto criado en invernaderos y con cantidades de conservantes con el objetivo de vender.
->>>> En esta practica hemos encontrado páginas únicas que solucionan estos problemas, cada una a su forma y con sus ideas. 
+>>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
+>>> - Enlace al documento:  ![Enlace-Usability-review](P1/Usability-review.xlsx) 
+>>> - URL y Valoración numérica obtenida:
+>>>   - URL: espacioorganico.com
+>>>   - Valoracion: 78 (Good)   
+>>> - Comentario sobre la revisión:
+>>>   - En los puntos fuertes hemos visto que la pagina tiene una gran variedad de productos y se ve muy atractica, pero flaquea sobretodo en la explicacion de errores y en el lenguaje que ultiliza, el cual a veces puede no ser el adecuado para gente que no esta acostumbrada a este tipo de paginas.
