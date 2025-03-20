@@ -10,6 +10,9 @@ La estrategia de investigación incluirá tanto métodos cualitativos como cuant
 El objetivo final es encontrar puntos clave que permitan mejorar la experiencia de los usuarios y potenciar el crecimiento de estos mercados ecológicos en Granada.
 
 ### 1.b Competitive Analysis
+>>>VERDE -> bueno
+>>>AMARILLO -> regular
+>>>ROJO -> malo
   ![AC](analisis.png)
   >>> Nos hemos decantado por Espacio Organico, nos ha parecido la pagina mas completa, la que mejor sensaciones nos dió usandola y por algunos detalles de uso por ejemplo de productos populares en el buscador, que se te muestre un mensaje al añadir al carrito, mayor rapidez y opciones de envío.
   >>> Por tanto pensamos que EspacioOrganico es la opción que más nos puede ayudar a mejorar nuestra pagina y a hacerla mas completa y con el menor numero de fallos.
