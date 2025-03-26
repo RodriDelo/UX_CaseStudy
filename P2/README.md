@@ -5,7 +5,7 @@ Debemos idear una propuesta de mercado online para impulsar la sostenibilidad y 
 ![Logo](Logo_Logic_Ecologic.jpg)
 * Malla receptora de información 
 * Mapa de empatía
-* Point of View 
+* Resumen de la ideación
 
 
 ### PROPUESTA DE VALOR
