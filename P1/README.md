@@ -19,14 +19,14 @@ ROJO -> malo
   >>> Por tanto pensamos que EspacioOrganico es la opción que más nos puede ayudar a mejorar nuestra pagina y a hacerla mas completa y con el menor numero de fallos.
   
 ### 1.c Personas
-
-  ![P1](Persona1.png)
   >>> Hemos elegido a Francisco para poner ejemplo de personas deportistas, ya sea futbol o cualquier otro deporte, ya que la gente profesional cuida mucho su dieta para seguir en la élite del deporte.
   >> Por ello intentamos con el ejemplo de esta persona, llegar a que mas deportistas que quieren subir su nivel se sientan identificados y basen su dieta en productos de calidad, y no en los típicos procesados de algunos supermercados que "dicen" tener proteina por ejemplo y luego estan llenos de procesados.
-
-  ![P2](Persona2.png)
+  ![P1](Persona1.png)
+  
   >>> A Pedro lo hemos elegido porque muestra como el conocimiento y consumo de los productos naturales tiene beneficios, y que son mucho mas sanos que los procesados.
-  >>> Por esa razon el prepara siempre la comida de su padre con productos naturales y artesanos, se puede ver al ser una persona criada en el campo su gran habilidad para desenvolverse en estos ambitos, tambien las muchas responsabilidades que tiene a su temprana edad han sido un punto a tener en cuenta para su elección.
+    >>> Por esa razon el prepara siempre la comida de su padre con productos naturales y artesanos, se puede ver al ser una persona criada en el campo su gran habilidad para desenvolverse en   estos ambitos, tambien las muchas responsabilidades que tiene a su temprana edad han sido un punto a tener en cuenta para su elección.
+  ![P2](Persona2.png)
+  
   
 ### 1.d User Journey Map
   >>> Escenario: La situacion de Francisco no es muy comun en general pero si más comun en el mundo del futbol, le comunicaron que tenía que hacer una dieta para subir de peso y aumentar su masa muscular de calidad, por ello, Fran decide informarse en la compra online ya que es mucho mas comodo y ademas con productos locales y no tan procesados como los de las grandes cadenas de supermercados.
