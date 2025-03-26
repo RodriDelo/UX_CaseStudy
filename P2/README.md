@@ -3,7 +3,8 @@
 ### Ideación 
 Debemos idear una propuesta de mercado online para impulsar la sostenibilidad y el producto local y ecologico en Granada. Para ello, se diseñará una supuesta aplicación de forma que se cubran las necesidades de los potenciales usuarios, Logic-Ecologic.
 ![Logo](Logo_Logic_Ecologic.jpg)
-* Malla receptora de información 
+* Malla receptora de información
+![Capture_Grid](Malla.jpg)
 * Mapa de empatía
 * Resumen de la ideación
 
