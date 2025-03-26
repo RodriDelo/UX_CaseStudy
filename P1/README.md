@@ -42,7 +42,7 @@ ROJO -> malo
 ### 1.e Usability Review
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  ![Enlace-Usability-review](P1/Usability-review.xlsx) 
+>>> - Enlace al documento:  ![Enlace-Usability-review](Usability-review.xlsx) 
 >>> - URL y Valoración numérica obtenida:
 >>>   - URL: espacioorganico.com
 >>>   - Valoracion: 78 (Good)   
