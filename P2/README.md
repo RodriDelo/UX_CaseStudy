@@ -8,7 +8,7 @@ Debemos idear una propuesta de mercado online para impulsar la sostenibilidad y 
   
 ![Capture_Grid](Malla.jpg)
 * Mapa de empatía
-![Mapa_Empatia](Mapa_Empatia.pdf)
+![Mapa_Empatia](MapaEmpatia.jpg)
 * Resumen de la ideación
 
 
