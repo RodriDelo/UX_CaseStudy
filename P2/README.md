@@ -13,6 +13,8 @@ Debemos idear una propuesta de mercado online para impulsar la sostenibilidad y 
 
 
 ### PROPUESTA DE VALOR
+Con Logic-Ecologic descubrirás una nueva forma de conectar con los mercados sostenibles y el producto local de Granada. Apoya a productores responsables, accede a alimentos frescos y de temporada, y contribuye activamente a un modelo de consumo más consciente y ecológico. Todo desde una plataforma digital pensada para quienes quieren marcar la diferencia en su forma de consumir.
+*Únete a Logic-Ecologic y forma parte del cambio hacia un futuro más sostenible.*
 * ScopeCanvas
 
 
