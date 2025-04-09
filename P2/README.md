@@ -18,7 +18,7 @@ Con **Logic-Ecologic** descubrirás una nueva forma de conectar con los mercados
 
 * ScopeCanvas
 
-En los users needs, hemos reflejado los principales matices que los usuarios valoran a la hora de utilizar una aplicación. Además, éstos podrán realizar distintas acciones como dejar valoraciones, compartir su carrito y otras opciones similares.
+En los users needs, hemos reflejado los principales matices que los usuarios valoran a la hora de utilizar una aplicación. Además, éstos podrán realizar distintas acciones como dejar valoraciones, compartir su carrito y otras opciones similares.  
 Mediremos el éxito de la aplicación mediante los informes ofrecidos por los proveedores de productos (por ejemplo: aumento de la venta de su comercio en base a nosotros), feedback de los usuarios, ingresos y numero de usuarios registrados.
 ![ScopeCanvas](Scope-Canvas.jpg)
 
