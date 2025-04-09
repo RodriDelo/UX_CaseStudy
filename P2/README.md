@@ -22,7 +22,9 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+![TaskMatrix](UserTaskMatrix.jpg)
+
 * User/Task flow
 
 
