@@ -23,6 +23,12 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 ### TASK ANALYSIS
 
 * User Task Matrix
+
+**VALORACION:**  
+0 -> Nunca/ muy poca frecuencia  
+1 -> Poca frecuencia  
+2 -> Frecuencia medio-alta  
+3 -> Mucha frecuencia  
 ![TaskMatrix](UserTaskMatrix.jpg)
 
 * User/Task flow
