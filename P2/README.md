@@ -17,7 +17,7 @@ Con **Logic-Ecologic** descubrirás una nueva forma de conectar con los mercados
 **Únete a Logic-Ecologic y forma parte del cambio hacia un futuro más sostenible.**
 
 * ScopeCanvas
-![ScopeCanvas](Scope-Canvas.jpg)
+![ScopeCanvas](ScopeCanvas.pdf)
 
 ### TASK ANALYSIS
 
