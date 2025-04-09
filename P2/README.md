@@ -32,6 +32,7 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 ![TaskMatrix](UserTaskMatrix.jpg)
 
 * User/Task flow
+* ![TaskFlow](Task-Flow.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
