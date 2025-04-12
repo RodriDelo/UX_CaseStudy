@@ -45,22 +45,30 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 
 * Sitemap 
 * Labelling
-
-| Etiqueta                | Descripción                                                                                                                                                                                                 |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Home                    | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página...                                             |
-| Iniciar sesión          | Permite a los usuarios registrarse o acceder a su cuenta con el fin de poder usar la aplicación.                                                                                                           |
-| Búsqueda                | Listado de los servicios disponibles. Se pueden buscar las actividades y los hoteles disponibles junto con su información.                                                                                 |
-| Sobre nosotros          | About us. Muestra información sobre los desarrolladores, así como el proyecto.                                                                                                                             |
-| Contacta con nosotros   | Información de contacto para poder recibir asistencia.                                                                                                                                                      |
-| Preguntas frecuentes    | FAQ. Se resuelven las dudas habituales relacionadas con el uso de la aplicación, los servicios, pagos...                                                                                                   |
-| Mapa                    | Es la principal función de la aplicación. Aquí se muestran todos los servicios disponibles en el mapa del lugar deseado. Se puede visualizar la ruta, así como compartirla y reservar tras añadir puntos. |
-| Dejar reseña            | El usuario añade una valoración sobre un servicio. Estas se mostrarán en el mapa.                                                                                                                          |
-| Compartir               | Permite difundir una ruta con otras personas. No será necesario estar registrado para verla.                                                                                                               |
-| Reservar                | Se muestra una página similar a un carrito de la compra, con el precio de todos los servicios por separado, fechas de la reserva y el precio total.                                                       |
-| Perfil                  | Información del usuario: nombre de usuario, correo, contraseña, historial de rutas... Se puede configurar también la interfaz, como aumentar el tamaño de texto, y cambiar la paleta de colores.          |
-| Ofrece tus servicios    | Las empresas que quieran registrar sus negocios deben acceder a esta página. Enviarán un formulario con todo lo necesario para poder colgar su servicio.                                                  |
-
+| Etiqueta                     | Descripción                                                                                                                                         |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Buscar producto             | Permite localizar productos disponibles desde el buscador principal.                                                                               |
+| Iniciar sesión              | Acceso para usuarios registrados o premium.                                                                                                        |
+| Buscar artículos eco        | Listado de contenidos informativos relacionados con comida ecológica.                                                                              |
+| Ver FAQ                     | Sección de ayuda con respuestas a preguntas frecuentes.                                                                                             |
+| Filtrar búsqueda            | Opción de aplicar filtros para afinar los resultados del buscador.                                                                                 |
+| Comprar                     | Realizar la compra de productos seleccionados.                                                                                                     |
+| Calificar producto          | Valorar un producto con estrellas o comentarios.                                                                                                   |
+| Contactar                   | Formulario o medios para contactar con el equipo de Logic Ecologic.                                                                                |
+| Compra habitual             | Consulta de productos que el usuario suele comprar recurrentemente.                                                                                |
+| Reseñar producto            | Añadir una reseña textual sobre un producto adquirido.                                                                                             |
+| Ver procedencia             | Información sobre el origen del producto (productor, ingredientes, etc.).                                                                          |
+| Plan premium                | Página para contratar el plan premium con sus ventajas.                                                                                            |
+| Ofertas                     | Acceso a promociones y descuentos exclusivos.                                                                                                      |
+| Buscar ayuda                | Acceso al centro de ayuda o guía de uso.                                                                                                           |
+| Recuperar contraseña        | Función para restaurar acceso en caso de olvido de contraseña.                                                                                     |
+| Reiniciar compra habitual   | Permite vaciar y configurar de nuevo su selección de productos frecuentes.                                                                         |
+| Registrarse                 | Creación de cuenta nueva en la plataforma.                                                                                                         |
+| Productos populares         | Consulta de productos destacados o más valorados.                                                                                                  |
+| Cookies                     | Información y configuración de cookies.                                                                                                            |
+| Newsletter                  | Gestionar la suscripción a comunicaciones por correo.                                                                                              |
+| Cambiar contraseña          | Modificar la clave de acceso desde el perfil de usuario.                                                                                           |
+| Cerrar sesión               | Finaliza la sesión del usuario activo.                                                                                                              |
 
 
 ### Prototipo Lo-FI Wireframe 
