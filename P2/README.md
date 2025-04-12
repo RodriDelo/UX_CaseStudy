@@ -44,7 +44,23 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
-* Labelling 
+* Labelling
+
+| Etiqueta                | Descripción                                                                                                                                                                                                 |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Home                    | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página...                                             |
+| Iniciar sesión          | Permite a los usuarios registrarse o acceder a su cuenta con el fin de poder usar la aplicación.                                                                                                           |
+| Búsqueda                | Listado de los servicios disponibles. Se pueden buscar las actividades y los hoteles disponibles junto con su información.                                                                                 |
+| Sobre nosotros          | About us. Muestra información sobre los desarrolladores, así como el proyecto.                                                                                                                             |
+| Contacta con nosotros   | Información de contacto para poder recibir asistencia.                                                                                                                                                      |
+| Preguntas frecuentes    | FAQ. Se resuelven las dudas habituales relacionadas con el uso de la aplicación, los servicios, pagos...                                                                                                   |
+| Mapa                    | Es la principal función de la aplicación. Aquí se muestran todos los servicios disponibles en el mapa del lugar deseado. Se puede visualizar la ruta, así como compartirla y reservar tras añadir puntos. |
+| Dejar reseña            | El usuario añade una valoración sobre un servicio. Estas se mostrarán en el mapa.                                                                                                                          |
+| Compartir               | Permite difundir una ruta con otras personas. No será necesario estar registrado para verla.                                                                                                               |
+| Reservar                | Se muestra una página similar a un carrito de la compra, con el precio de todos los servicios por separado, fechas de la reserva y el precio total.                                                       |
+| Perfil                  | Información del usuario: nombre de usuario, correo, contraseña, historial de rutas... Se puede configurar también la interfaz, como aumentar el tamaño de texto, y cambiar la paleta de colores.          |
+| Ofrece tus servicios    | Las empresas que quieran registrar sus negocios deben acceder a esta página. Enviarán un formulario con todo lo necesario para poder colgar su servicio.                                                  |
+
 
 
 ### Prototipo Lo-FI Wireframe 
