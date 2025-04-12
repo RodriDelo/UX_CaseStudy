@@ -43,7 +43,9 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+![SiteMap](Sitemap.jpg)
+  
 * Labelling
 
 | Etiqueta                     | Descripción                                                                                                                       |
