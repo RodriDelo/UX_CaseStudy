@@ -79,8 +79,6 @@ La herramienta que hemos usado ha sido Notewise.
 ![Prototipo](Prototipo.jpeg)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta fase hemos definido los pilares de nuestra aplicación Logic-Ecologic, centrada en promover el consumo responsable y local en Granada. A través de herramientas como el mapa de empatía, el ScopeCanvas y el análisis de tareas, hemos identificado las funcionalidades clave y cómo se usarán según el tipo de usuario.
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+El diseño del sitemap, el etiquetado y el prototipo Lo-Fi nos han permitido estructurar mejor la información y visualizar la futura experiencia de uso. Esta etapa nos deja una base sólida para continuar con el diseño centrado en el usuario y validar nuestras decisiones en siguientes iteraciones.
