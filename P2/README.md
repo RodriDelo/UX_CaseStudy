@@ -75,7 +75,8 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 
 
 ### Prototipo Lo-FI Wireframe 
-
+La herramienta que hemos usado ha sido Notewise.
+![Prototipo](Prototipo.jpeg)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
