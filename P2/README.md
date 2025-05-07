@@ -56,7 +56,7 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-![SiteMap](Sitemap.jpg)
+![SiteMap](Sitemap.png)
   
 * Labelling
 
