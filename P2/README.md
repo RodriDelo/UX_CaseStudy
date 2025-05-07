@@ -8,11 +8,15 @@ Debemos idear una propuesta de mercado online para impulsar la sostenibilidad y 
 ### A. Reframing
 * Malla receptora de información
   - Con nuestro 'Capture Grid' lo que buscamos es recopilar, organizar y sintetizar de manera estructurada las observaciones, ideas y comentarios de nuestro proyecto. Para esto hemos usado las opiniones de Pedro y Fransico en cuanto a que nos digan algunas cosas interesantes, algunas criticas y algunas preguntas que tengan. Finalmente hemos aportado nosotros algunos aspectos nuevos que hemos decidido incorporar en nuestra pagina.
+ 
+
 ![Capture_Grid](Malla.jpg)
 
 
 * Mapa de empatía
-  - Para realizar el mapa de empatia nos hemos tenido que hacer 5 preguntas sobre nuestros clientes para entenderlos mejor y ponernos en su papel. Estas son ¿Que ven?, ¿Que dicen?, ¿Que hacen?, ¿Que oyen? y ¿Que piensan? Con esto buscamos ver de forma mas humana y cercana como podemos mejorar nuestra pagina para que sea mas atractiva a los clientes.
+  - Para realizar el mapa de empatia nos hemos tenido que hacer 5 preguntas sobre nuestros clientes para entenderlos mejor y ponernos en su papel. Estas son ¿Que ven?, ¿Que dicen?, ¿Que hacen?, ¿Que oyen? y ¿Que piensan? Con esto buscamos ver de forma mas humana y cercana como podemos mejorar nuestra pagina para que sea mas atractiva a los clientes. Para ello usamos las ideas de nuestros clientes Pedro Perez y Francisco Lopez, asi como nuestras propias experiencias e ideas.
+
+ 
 ![Mapa_Empatia](MapaEmpatia.jpg)
 
 ### PROPUESTA DE VALOR
@@ -22,7 +26,7 @@ Con **Logic-Ecologic** descubrirás una nueva forma de conectar con los mercados
 
 * ScopeCanvas
 
-En los users needs, hemos reflejado los principales matices que los usuarios valoran a la hora de utilizar una aplicación. Además, éstos podrán realizar distintas acciones como dejar valoraciones, compartir su carrito y otras opciones similares.  
+  - En los users needs, hemos reflejado los principales matices que los usuarios valoran a la hora de utilizar una aplicación. Además, éstos podrán realizar distintas acciones como dejar valoraciones, compartir su carrito y otras opciones similares.  
 Mediremos el éxito de la aplicación mediante los informes ofrecidos por los proveedores de productos (por ejemplo: aumento de la venta de su comercio en base a nosotros), feedback de los usuarios, ingresos y numero de usuarios registrados.
 
 ![ScopeCanvas](Scope-Canvas.png)
@@ -30,12 +34,15 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 ### TASK ANALYSIS
 
 * User Task Matrix
+  - Con la matriz de tareas lo que buscamos es plasmar y visualizar la relación entre las tareas que los usuarios necesitan realizar en nuestra pagina y las funcionalidades o características que posee nuestra pagina asi como la frecuencia de su uso en los usuarios dependiendo de su rol en el sistema. (Aqui debajo dejamos la leyenda de su uso)
 
-**VALORACION:**  
-0 -> Nunca/ muy poca frecuencia  
-1 -> Poca frecuencia  
-2 -> Frecuencia medio-alta  
-3 -> Mucha frecuencia  
+  **VALORACION:**  
+  0 -> Nunca/ muy poca frecuencia  
+  1 -> Poca frecuencia  
+  2 -> Frecuencia medio-alta  
+  3 -> Mucha frecuencia  
+
+
 ![TaskMatrix](UserTaskMatrix.jpg)
 
 * User/Task flow
