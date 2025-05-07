@@ -46,8 +46,7 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 ![TaskMatrix](UserTaskMatrix.jpg)
 
 * User/Task flow
-  
-  Hemos realizado el Task Flow de una de las funcionalidades clave de una pagina de venta de productos como es la nuestra.
+  - Hemos realizado el Task Flow de una de las funcionalidades clave de una pagina de venta de productos como es la nuestra.
   Esta funcionalidad es la de **realizar una compra**, donde hemos puesto todos los pasos que deberia realizar un cliente a la hora de hacer un pedido en nuestra pagina.
   
   ![TaskFlow](Task-Flow.png)
