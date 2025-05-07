@@ -5,7 +5,7 @@ Debemos idear una propuesta de mercado online para impulsar la sostenibilidad y 
 
 ![Logo](Logo_Logic_Ecologic.jpg)
 * Malla receptora de información
-*   Con nuestro 'Capture Grid' lo que buscamos es recopilar, organizar y sintetizar de manera estructurada las observaciones, ideas y comentarios de nuestro proyecto. Para esto hemos usado las opiniones de Pedro y Fransico en cuanto a que nos digan algunas cosas interesantes, algunas criticas y algunas preguntas que tengan. Finalmente hemos aportado nosotros algunos aspectos nuevos que hemos decidido incorporar en nuestra pagina.
+** Con nuestro 'Capture Grid' lo que buscamos es recopilar, organizar y sintetizar de manera estructurada las observaciones, ideas y comentarios de nuestro proyecto. Para esto hemos usado las opiniones de Pedro y Fransico en cuanto a que nos digan algunas cosas interesantes, algunas criticas y algunas preguntas que tengan. Finalmente hemos aportado nosotros algunos aspectos nuevos que hemos decidido incorporar en nuestra pagina.
   
 ![Capture_Grid](Malla.jpg)
 * Mapa de empatía
