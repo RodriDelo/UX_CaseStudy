@@ -64,18 +64,18 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Buscar producto             | Permite localizar productos disponibles desde el buscador principal.                                                               |
 | Iniciar sesión              | Acceso para usuarios registrados o premium.                                                                                        |
-| Buscar artículos eco        | Listado de contenidos informativos relacionados con comida ecológica.                                                              |
-| Ver FAQ                     | Sección de ayuda con respuestas a preguntas frecuentes.                                                                            |
+| EcoArticulos                | Listado de contenidos informativos relacionados con comida ecológica.                                                              |
+| Ver FAQs                    | Sección de ayuda con respuestas a preguntas frecuentes.                                                                            |
 | Filtrar búsqueda            | Opción de aplicar filtros para afinar los resultados del buscador.                                                                 |
 | Comprar                     | Realizar la compra de productos seleccionados.                                                                                     |
-| Calificar producto          | Valorar un producto con estrellas o comentarios.                                                                                   |
-| Contactar                   | Formulario o medios para contactar con el equipo de Logic Ecologic.                                                                |
-| Compra habitual             | Consulta de productos que el usuario suele comprar recurrentemente.                                                                |
+| Calificar producto          | Valorar un producto con estrellas.                                                                                                 |
 | Reseñar producto            | Añadir una reseña textual sobre un producto adquirido.                                                                             |
-| Ver procedencia             | Información sobre el origen del producto (productor, ingredientes, etc.).                                                          |
+| Contacta con Nosotros       | Formulario o medios para contactar con el equipo de Logic Ecologic.                                                                |
+| Compra habitual             | Consulta de productos que el usuario suele comprar recurrentemente.                                                                |
+| Procedencia                 | Información sobre el origen del producto (productor, ingredientes, etc.).                                                          |
 | Plan premium                | Página para contratar el plan premium con sus ventajas.                                                                            |
-| Ofertas                     | Acceso a promociones y descuentos exclusivos.                                                                                      |
-| Buscar ayuda                | Acceso al centro de ayuda o guía de uso.                                                                                           |
+| Ofertas Premium             | Acceso a promociones y descuentos exclusivos.                                                                                      |
+| Ayuda                       | Acceso al centro de ayuda o guía de uso.                                                                                           |
 | Recuperar contraseña        | Función para restaurar acceso en caso de olvido de contraseña.                                                                     |
 | Reiniciar compra habitual   | Permite vaciar y configurar de nuevo su selección de productos frecuentes.                                                         |
 | Registrarse                 | Creación de cuenta nueva en la plataforma.                                                                                         |
@@ -84,7 +84,6 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 | Newsletter                  | Gestionar la suscripción a comunicaciones por correo.                                                                              |
 | Cambiar contraseña          | Modificar la clave de acceso desde el perfil de usuario.                                                                           |
 | Cerrar sesión               | Finaliza la sesión del usuario activo.                                                                                             |
-
 
 ### Prototipo Lo-FI Wireframe 
 La herramienta que hemos usado ha sido Notewise.
