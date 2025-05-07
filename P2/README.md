@@ -56,6 +56,9 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
+  - Con el sitemap se puede ver de forma estrucurada como tenemos la organizadas las diferentes partes de nuestra pagina donde estan las 5 partes principales como lo son la Compra de productos, nuestros 'EcoArticulos', la Cuenta del usuario, la ayuda que pueda necesitar este y la informacion que brindamos sobre nosotros.
+ 
+  
 ![SiteMap](Sitemap.png)
   
 * Labelling
