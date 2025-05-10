@@ -88,7 +88,9 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 | Cerrar sesión               | Finaliza la sesión del usuario activo.                                                                                             |
 
 ### Prototipo Lo-FI Wireframe 
-La herramienta que hemos usado ha sido Notewise.
+  - Hemos usado NoteWise para hacer el boceto ya que es una aplicacion que nos da mucha libertad de dibujo y expresion y nos ha parecido lo mas conveniente.
+
+
 ![Boceto](Bocetos_Lo-Fi.jpg)
 
 ### Conclusiones  
