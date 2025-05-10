@@ -89,7 +89,7 @@ Mediremos el éxito de la aplicación mediante los informes ofrecidos por los pr
 
 ### Prototipo Lo-FI Wireframe 
 La herramienta que hemos usado ha sido Notewise.
-![Prototipo](Prototipo.jpeg)
+![Boceto](Bocetos_Lo-Fi.jpg)
 
 ### Conclusiones  
 En esta fase hemos definido los pilares de nuestra aplicación Logic-Ecologic, centrada en promover el consumo responsable y local en Granada. A través de herramientas como el mapa de empatía, el ScopeCanvas y el análisis de tareas, hemos identificado las funcionalidades clave y cómo se usarán según el tipo de usuario.
