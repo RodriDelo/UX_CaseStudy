@@ -1,9 +1,13 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
+### Moodboard (diseño visual + logotipo)
+  - Con el moodboard, lo que buscamos es evocar nuestros sentimientos sobre nuestra página a través de una colección de imágenes, muestras de color, texto y fuentes. Así, tanto nosotros mismos como el cliente podemos tener más claro qué buscamos con nuestra página.
+
+  ![Moodboard](MoodBoard.jpg)
+    
+### Landing Page
+### Mockup: LAYOUT HI-FI
+### Publicación del Case Study
 
 ## Conclusiones
 
