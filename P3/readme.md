@@ -6,9 +6,7 @@
   ![Moodboard](MoodBoard.jpg)
     
 ### Landing Page
-  - El Landing Page es la primera toma de contacto del usuario con nuestra plataforma, por lo que debemos hacerla lo más atractiva posible para llamar y retener su atención y convencerlo de descargarsela.
-
-Queremos captar al usuario con nuestro eslogan para que siga en la plataforma, y conozca la funcionalidades que ofrecemos, haciendo uso de los componentes definidos en el Moodboard.
+  - El Landing Page es la primera toma de contacto del usuario con nuestra plataforma, por lo que debemos hacerla lo más atractiva posible para llamar y retener su atención y convencerlo de descargarsela. Queremos captar al usuario con nuestro eslogan para que siga en la plataforma, y conozca la funcionalidades que ofrecemos, haciendo uso de los componentes definidos en el Moodboard.
 
 ![Landing_page](Imagen_Landing_Page.jpg)
 
