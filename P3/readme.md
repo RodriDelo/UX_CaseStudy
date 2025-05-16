@@ -11,6 +11,18 @@
 ![Landing_page](Imagen_Landing_Page.jpg)
 
   - [Puedes visitar la landing page en este enlace](http://logicecologic-824774.webflow.io/). Utilizamos la herramienta [Webflow](www.webflow.io) para crearla.
+
+### GuideLines
+Los patrones de diseño que hemos decidido utilizar en el diseño de nuestra aplicación son los siguientes:
+  - Onboarding: Esta será la página principal que los usuarios verán al entrar en nuestra página. En ella buscaremos que el usuario se sienta cómodo con nuestra página e incitarlo a que se quede.
+  - Menú (adaptado a móvil): Es la página que aparecerá tras el onboarding y que mostrará al usuario todo lo necesario para empezar a realizar su compra.
+  - Carrusel: Un carrusel con los productos destacados del día que pueden interesarle al usuario, con productos que ya compró anteriormente o con los que están en oferta. Estos diferentes carruseles pueden ir en distintas páginas.
+  - Search: Una barra de búsqueda para que el usuario pueda buscar los productos que desee.
+  - Card Items: Para representar distintos productos de la página.
+  - Item Details: Los productos contendrán el nombre del producto, su precio, ingredientes, alérgenos e información nutricional.
+  - Reserva: En el caso de nuestra página, será la acción de guardar un producto en nuestro carrito de la compra.
+  - Form Input: Para nuestro form input hemos pensado en poner un slider que represente los kilómetros; estos representarán la distancia a la que el usuario está dispuesto a que procedan sus productos.
+  - About: Una pequeña descripción de quiénes somos, qué hacemos, cuál es nuestra idea y cuál es nuestro fin último.
    
 ### Mockup: LAYOUT HI-FI
 ### Publicación del Case Study
