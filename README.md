@@ -146,56 +146,74 @@ Término | Significado
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+# UX Case Study – Logic Ecologic 🌱
 
+**Autor:** AmbosMarcan  
+**Práctica 3:** Diseño visual y prototipado  
+**Fecha de entrega:** [18/05/2025]  
 
-### 3.a Moodboard
+Este documento recoge todo el trabajo realizado en la Práctica 3 del curso de DIU. A través de distintas fases —moodboard, landing page, patrones UI y prototipado— se ha desarrollado una propuesta visual completa para **Logic Ecologic**, una plataforma centrada en conectar consumidores con mercados locales sostenibles.
+
+---
+
+## 3.a Moodboard
+
 ![Método UX](img/moodboard.png)
------
-  - Con el moodboard, lo que buscamos es evocar nuestros sentimientos sobre nuestra página a través de una colección de imágenes, muestras de color, texto y fuentes. Así, tanto nosotros mismos como el cliente podemos tener más claro qué buscamos con nuestra página.
 
-  ![Moodboard](P3/MoodBoard.jpg)
+El **moodboard** representa la atmósfera visual del producto. A través de imágenes, colores, tipografías y elementos gráficos, definimos la identidad estética de la plataforma y guiamos las decisiones de diseño.
 
+![Moodboard](P3/MoodBoard.jpg)
 
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
+---
 
-  - El Landing Page es la primera toma de contacto del usuario con nuestra plataforma, por lo que debemos hacerla lo más atractiva posible para llamar y retener su atención y convencerlo de descargarsela. Queremos captar al usuario con nuestro eslogan para que siga en la plataforma, y conozca la funcionalidades que ofrecemos, haciendo uso de los componentes definidos en el Moodboard.
+## 3.b Landing Page
+
+![Método UX](img/landing-page.png)
+
+La **landing page** es el primer contacto del usuario con Logic Ecologic. Está diseñada para captar su atención, transmitir el valor de la plataforma y fomentar la interacción. Hemos empleado elementos visuales definidos en el moodboard para mantener coherencia visual.
 
 ![Landing_page](P3/Imagen_Landing_Page.jpg)
 
-  - [Puedes visitar la landing page en este enlace](http://logicecologic-824774.webflow.io/). Utilizamos la herramienta [Webflow](www.webflow.io) para crearla.
+🔗 [Visita la landing page](http://logicecologic-824774.webflow.io/)  
+🌐 Herramienta utilizada: [Webflow](https://www.webflow.io)
 
+---
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
-Los patrones de diseño que hemos decidido utilizar en el diseño de nuestra aplicación son los siguientes:
-  - Onboarding: Esta será la página principal que los usuarios verán al entrar en nuestra página. En ella buscaremos que el usuario se sienta cómodo con nuestra página e incitarlo a que se quede.
-  - Menú (adaptado a móvil): Es la página que aparecerá tras el onboarding y que mostrará al usuario todo lo necesario para empezar a realizar su compra.
-  - Carrusel: Un carrusel con los productos destacados del día que pueden interesarle al usuario, con productos que ya compró anteriormente o con los que están en oferta. Estos diferentes carruseles pueden ir en distintas páginas.
-  - Search: Una barra de búsqueda para que el usuario pueda buscar los productos que desee.
-  - Card Items: Para representar distintos productos de la página.
-  - Item Details: Los productos contendrán el nombre del producto, su precio, ingredientes, alérgenos e información nutricional.
-  - Reserva: En el caso de nuestra página, será la acción de guardar un producto en nuestro carrito de la compra.
-  - Form Input: Para nuestro form input hemos pensado en poner un slider que represente los kilómetros; estos representarán la distancia a la que el usuario está dispuesto a que procedan sus productos.
-  - About: Una pequeña descripción de quiénes somos, qué hacemos, cuál es nuestra idea y cuál es nuestro fin último.
+## 3.c Guidelines
 
+![Método UX](img/guidelines.png)
 
-### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
-  - [Mockup accesible](https://www.figma.com/design/LIJcYPqpDTh2SzlqtOg3wd/Layout-Hi-Fi--Copy-?node-id=0-1&p=f&t=imJqoZQwvP186xRv-0).
+Estos son los patrones de diseño y componentes UI seleccionados para construir la experiencia de usuario:
+
+- **Onboarding:** Página de bienvenida para introducir al usuario en la plataforma.
+- **Menú móvil:** Navegación optimizada para dispositivos móviles.
+- **Carrusel de productos:** Visualización dinámica de productos destacados, recomendados o en oferta.
+- **Search:** Barra de búsqueda funcional y accesible.
+- **Card Items:** Tarjetas para representar productos de forma clara y compacta.
+- **Item Details:** Información detallada del producto (ingredientes, alérgenos, nutrición).
+- **Reserva:** Añadir productos al carrito para su posterior compra.
+- **Form Input (Slider):** Selección de distancia en kilómetros para personalizar el origen de los productos.
+- **About:** Sección informativa sobre el propósito y visión del proyecto.
+
+---
+
+## 3.d Mockup Hi-Fi
+
+![Método UX](img/mockup.png)
+
+El Mockup refleja cómo se verán y funcionarán las pantallas principales de Logic Ecologic, integrando todos los elementos visuales definidos.
+
 ![Mockup](P3/Mockup.jpg)
 
+🔗 [Mockup en Figma (Hi-Fi)](https://www.figma.com/design/LIJcYPqpDTh2SzlqtOg3wd/Layout-Hi-Fi--Copy-?node-id=0-1&p=f&t=imJqoZQwvP186xRv-0)
 
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
+---
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+## 3.e Conclusión: ¿My UX Case Study?
+
+![Método UX](img/caseStudy.png)
+
+Este documento ha sido preparado para su publicación en GitHub como entrega final de la práctica. Resume de forma estructurada el trabajo de diseño realizado, incluyendo la documentación visual, los patrones UI utilizados y un prototipo navegable. Se ha aplicado una metodología centrada en el usuario para diseñar una plataforma coherente, funcional y atractiva.
 
 <br>
 
