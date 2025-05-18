@@ -25,6 +25,9 @@ Los patrones de diseño que hemos decidido utilizar en el diseño de nuestra apl
   - About: Una pequeña descripción de quiénes somos, qué hacemos, cuál es nuestra idea y cuál es nuestro fin último.
    
 ### Mockup: LAYOUT HI-FI
+[Mockup accesible]([http://logicecologic-824774.webflow.io/](https://www.figma.com/design/LIJcYPqpDTh2SzlqtOg3wd/Layout-Hi-Fi--Copy-?node-id=0-1&p=f&t=imJqoZQwvP186xRv-0)).
+![Mockup](Mockup.jpg)
+
 ### Publicación del Case Study
 
 ## Conclusiones
