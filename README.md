@@ -152,32 +152,42 @@ Término | Significado
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+  - Con el moodboard, lo que buscamos es evocar nuestros sentimientos sobre nuestra página a través de una colección de imágenes, muestras de color, texto y fuentes. Así, tanto nosotros mismos como el cliente podemos tener más claro qué buscamos con nuestra página.
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+  ![Moodboard](P3/MoodBoard.jpg)
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+  - El Landing Page es la primera toma de contacto del usuario con nuestra plataforma, por lo que debemos hacerla lo más atractiva posible para llamar y retener su atención y convencerlo de descargarsela. Queremos captar al usuario con nuestro eslogan para que siga en la plataforma, y conozca la funcionalidades que ofrecemos, haciendo uso de los componentes definidos en el Moodboard.
+
+![Landing_page](P3/Imagen_Landing_Page.jpg)
+
+  - [Puedes visitar la landing page en este enlace](http://logicecologic-824774.webflow.io/). Utilizamos la herramienta [Webflow](www.webflow.io) para crearla.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Los patrones de diseño que hemos decidido utilizar en el diseño de nuestra aplicación son los siguientes:
+  - Onboarding: Esta será la página principal que los usuarios verán al entrar en nuestra página. En ella buscaremos que el usuario se sienta cómodo con nuestra página e incitarlo a que se quede.
+  - Menú (adaptado a móvil): Es la página que aparecerá tras el onboarding y que mostrará al usuario todo lo necesario para empezar a realizar su compra.
+  - Carrusel: Un carrusel con los productos destacados del día que pueden interesarle al usuario, con productos que ya compró anteriormente o con los que están en oferta. Estos diferentes carruseles pueden ir en distintas páginas.
+  - Search: Una barra de búsqueda para que el usuario pueda buscar los productos que desee.
+  - Card Items: Para representar distintos productos de la página.
+  - Item Details: Los productos contendrán el nombre del producto, su precio, ingredientes, alérgenos e información nutricional.
+  - Reserva: En el caso de nuestra página, será la acción de guardar un producto en nuestro carrito de la compra.
+  - Form Input: Para nuestro form input hemos pensado en poner un slider que represente los kilómetros; estos representarán la distancia a la que el usuario está dispuesto a que procedan sus productos.
+  - About: Una pequeña descripción de quiénes somos, qué hacemos, cuál es nuestra idea y cuál es nuestro fin último.
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+  - [Mockup accesible](https://www.figma.com/design/LIJcYPqpDTh2SzlqtOg3wd/Layout-Hi-Fi--Copy-?node-id=0-1&p=f&t=imJqoZQwvP186xRv-0).
+![Mockup](P3/Mockup.jpg)
 
 
 ### 3.e ¿My UX-Case Study?
