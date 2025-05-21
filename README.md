@@ -7,9 +7,7 @@ Grupo: DIU1_AmbosMarcan.  Curso: 2024/25
 
 Actualizado: 16/03/2025
 
-Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: Logic Ecologic
 
 Descripción: 
 
