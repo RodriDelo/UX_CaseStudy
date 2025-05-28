@@ -26,5 +26,18 @@ Los usuarios elegidos han sido creados mediante la combinación de característi
 | Manuela  | M / 67   | Jubilada  | Baja       | Emocional     | Móvil        | B
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+### Testing de Eyetracking: 
+Este estudio de Eyetracking lo hemos llevado a cabo para analizar el comportamiento visual de los usuarios mientras realizan dos tareas diferentes en dos plataformas distintas.
+Los usuarios escogidos son Felipe y Manuela.
+- Carmen hará la tarea A.
+- Jaime hará la tarea B.
+
+Las tareas que deberan realizar los usuarios escogidos seran las siguientes:
+1. Tarea A: Acceder a el producto 'miel ecologica' a traves del buscador.
+
+2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de EcoArticulos.
+
+Los objetivos de este estudio son:
+* Identificar áreas de interés (AOI) en las interfaces de usuario.
+* Analizar patrones de fijación y movimientos oculares.
+* Evaluar la usabilidad de las plataformas en función del comportamiento visual de los usuarios.
