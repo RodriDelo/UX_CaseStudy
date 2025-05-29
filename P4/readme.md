@@ -25,6 +25,14 @@ Los usuarios elegidos han sido creados mediante la combinación de característi
 | Julian  | H / 21   | Estudiante     | Alta        | Timido    | Windows      | B 
 | Manuela  | M / 42   | Directora financiera  | Media      | Emocional     | Móvil        | B
 
+## Resultados de SUS:
+
+Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Para ello veremos la calificacion de las personas ficticias que hemos descrito anteriormente.
+
+Los resultados obtenidos se encuentran en [el siguiente fichero](Cuestionario%20SUS%20DIU.xlsx).
+
+<img align="center" src="../docs/img/P4/cuestionarioSUS.png" alt="Métodos de pago"/>
+
 
 ### Testing de Eyetracking: 
 Este estudio de Eyetracking lo hemos llevado a cabo para analizar el comportamiento visual de los usuarios mientras realizan dos tareas diferentes en dos plataformas distintas.
