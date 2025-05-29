@@ -29,9 +29,9 @@ Los usuarios elegidos han sido creados mediante la combinación de característi
 
 Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Para ello veremos la calificacion de las personas ficticias que hemos descrito anteriormente.
 
-Los resultados obtenidos se encuentran en [el siguiente fichero](Cuestionario%20SUS%20DIU.xlsx).
+Los resultados obtenidos se encuentran en [el siguiente fichero](Cuestionario_SUS_DIU.xlsx).
 
-<img align="center" src="../docs/img/P4/cuestionarioSUS.png" alt="Métodos de pago"/>
+<img align="center" src="cuestionarioSUS.png" alt="Resultados SUS"/>
 
 
 ### Testing de Eyetracking: 
