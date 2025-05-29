@@ -31,7 +31,7 @@ Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. 
 
 Los resultados obtenidos se encuentran en [el siguiente fichero](Cuestionario_SUS_DIU.xlsx).
 
-<img align="center" src="cuestionarioSUS.png" alt="Resultados SUS"/>
+<img align="center" src="Cuestionario_SUS_P4.png" alt="Resultados SUS"/>
 
 
 ### Testing de Eyetracking: 
