@@ -33,6 +33,12 @@ Los resultados obtenidos se encuentran en [el siguiente fichero](Cuestionario_SU
 
 <img align="center" src="Cuestionario_SUS_P4.png" alt="Resultados SUS"/>
 
+Podemos ver que ambas paginas han obtenido buenos resultados en el cuestionario SUS. Siendo Tela de Vida un poco superior en resultados.
+   - Los resultados han quedado de la siguiente forma:
+         - LogicEcologic: Eduardo -> 72.5 puntos | Felipe -> 82.5
+             - Total normalizado: 77.5
+         - Tela de Vida: Manuela -> 82.5 | Julián -> 80
+             - Total normalizado: 81.25
 
 ### Testing de Eyetracking: 
 Este estudio de Eyetracking lo hemos llevado a cabo para analizar el comportamiento visual de los usuarios mientras realizan dos tareas diferentes en dos plataformas distintas.
