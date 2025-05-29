@@ -20,7 +20,7 @@ Los usuarios elegidos han sido creados mediante la combinación de característi
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Eduardo  | H / 55   | Viudo/Jubilado  | Media       | Extrovertido | Móvil       | A 
+| Eduardo  | H / 72   | Viudo/Jubilado  | Baja/Media       | Extrovertido | Móvil       | A 
 | Felipe  | H / 26   | Informatico  | Alta       | Introvertido       | Linux        | A 
 | Julian  | H / 21   | Estudiante     | Alta        | Timido    | Windows      | B 
 | Manuela  | M / 67   | Jubilada  | Baja       | Emocional     | Móvil        | B
