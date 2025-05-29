@@ -23,7 +23,7 @@ Los usuarios elegidos han sido creados mediante la combinación de característi
 | Eduardo  | H / 72   | Viudo/Jubilado  | Baja/Media       | Extrovertido | Móvil       | A 
 | Felipe  | H / 26   | Informatico  | Alta       | Introvertido       | Linux        | A 
 | Julian  | H / 21   | Estudiante     | Alta        | Timido    | Windows      | B 
-| Manuela  | M / 67   | Jubilada  | Baja       | Emocional     | Móvil        | B
+| Manuela  | M / 42   | Madre soltera  | Media      | Emocional     | Móvil        | B
 
 
 ### Testing de Eyetracking: 
