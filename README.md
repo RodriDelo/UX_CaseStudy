@@ -70,7 +70,7 @@ El objetivo final es encontrar puntos clave que permitan mejorar la experiencia 
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
+>>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación:
 >>> - Enlace al documento:  ![Enlace-Usability-review](P1/Usability-review.xlsx) 
 >>> - URL y Valoración numérica obtenida:
 >>>   - URL: espacioorganico.com
@@ -294,12 +294,11 @@ Los resultados obtenidos se encuentran en [el siguiente fichero](P4/Cuestionario
 
 Podemos ver que ambas paginas han obtenido buenos resultados en el cuestionario SUS. Siendo Tela de Vida un poco superior en resultados.
 
-- Los resultados han quedado de la siguiente forma:
-     
-  - LogicEcologic: Eduardo -> 72.5 puntos | Felipe -> 82.5
-     - Total normalizado: 77.5
-  - Tela de Vida: Manuela -> 82.5 | Julián -> 80
-     - Total normalizado: 81.25
+Los resultados han quedado de la siguiente forma:    
+- LogicEcologic: Eduardo -> 72.5 puntos | Felipe -> 82.5
+   - Total normalizado: 77.5
+- Tela de Vida: Manuela -> 82.5 | Julián -> 80
+   - Total normalizado: 81.25
 
 
 ### 4.d A/B Testing
