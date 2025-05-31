@@ -5,28 +5,21 @@ Prácticas Diseño Interfaces de Usuario (Tema: Mercados Sostenibles )
 
 Grupo: DIU1_AmbosMarcan.  Curso: 2024/25 
 
-Actualizado: 16/03/2025
+Actualizado: 31/05/2025
 
 Proyecto: Logic Ecologic
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestro proyecto Logic-Ecologic es una plataforma web basada en los mercados sostenibles, en la cual se pueden las acciones basicas de un supermercado (realizar pedidos, ver detalles de los productos,...) y ademas tiene funcionalidades que nos hacen resaltar sobre el resto como una seccion de Compra Habitual (basada en las compras del cliente), nuestra sección de EcoArticulos, productos populares, avisos de stock, y más aun por descubrir, **únete a Logic-Ecologic y forma parte del cambio hacia un futuro más sostenible**.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](P2/Logo_Logic_Ecologic.jpg)
 
 Miembros:
  * :bust_in_silhouette:  Rodrigo De Lorenzo Arenas     :octocat:     
  * :bust_in_silhouette:  Antonio Martínez Luque     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
------ 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
 
 
 # Proceso de Diseño 
