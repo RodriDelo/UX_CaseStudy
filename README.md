@@ -265,14 +265,12 @@ Uno de los desafíos que enfrentamos fue entender cómo los diferentes usuarios 
 
 Para abordar esto, seleccionamos un grupo diverso de usuarios que realizarían tareas específicas en la plataforma, y luego evaluaríamos su experiencia utilizando métodos de testing de usabilidad y el cuestionario SUS.
 
-
-
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| ---------| ------------- | ----------- | ----------- | -----------  | ---------- | ----
+| Eduardo  | H / 72        | Jubilado    | Baja/Media  | Extrovertido | Móvil      | A 
+| Felipe   | H / 26        | Informatico | Alta        | Introvertido | Linux      | A 
+| Julian   | H / 21        | Estudiante  | Alta        | Timido       | Windows    | B 
+| Manuela  | M / 42      | Directora financiera  | Media | Emocional | Móvil     | B
 
 
 ### 4.b Diseño de las pruebas 
