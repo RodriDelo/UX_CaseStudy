@@ -9,10 +9,15 @@ Vamos a aplicar la metodología de experimentación A/B testing para comparar do
 Este estudio nos será útil como herramienta para la optimización de la conversión y mejora de la experiencia de usuario en nuestra plataforma.
 
 Vamos a llevar a cabo varios pasos:
+
   1º Seleccionamos a varias personas que actuarán como usuarios para las pruebas que vamos a realizar.
+  
   2º Cada usuario realizará un test SUS; es decir, un cuestionario de varias preguntas sobre la aplicación que previamente habrá probado, y pondrá una puntuación a cada pregunta de 1-5.
+  
   3º Con la puntuación total de los cuestionarios haremos una puntuación del 0-100, y según el rango que esté tendrá una valoración final.
+  
   4º Mientras se realiza los tests SUS, vamos a escoger a dos usuarios para realizarles una prueba de Eye Tracking para localizar áreas de interés y zonas que deben mejorar la captación de atención.
+  
 
 * 1. Users 
 
