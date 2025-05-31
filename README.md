@@ -259,9 +259,11 @@ Este documento ha sido preparado para su publicación en GitHub como entrega fin
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
+Nuestra misión era evaluar la usabilidad de la plataforma La Tela De Vida, que se enfoca en promover la moda circular, ofreciendo una plataforma confiable donde las personas puedan comprar ropa usada de calidad y tener la opcion de darle un toque personal en talleres.
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Uno de los desafíos que enfrentamos fue entender cómo los diferentes usuarios interactúan con las distintas funcionalidades de la plataforma. Desde la navegación por las diferentes prendas,  la participación en talleres, necesitábamos una visión clara de la experiencia del usuario.
+
+Para abordar esto, seleccionamos un grupo diverso de usuarios que realizarían tareas específicas en la plataforma, y luego evaluaríamos su experiencia utilizando métodos de testing de usabilidad y el cuestionario SUS.
 
 
 
