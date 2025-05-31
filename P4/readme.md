@@ -17,9 +17,8 @@ Vamos a llevar a cabo varios pasos:
   - 3º Con la puntuación total de los cuestionarios haremos una puntuación del 0-100, y según el rango que esté tendrá una valoración final.
   
   - 4º Mientras se realiza los tests SUS, vamos a escoger a dos usuarios para realizarles una prueba de Eye Tracking para localizar áreas de interés y zonas que deben mejorar la captación de atención.
-  
 
-* 1. Users 
+## Usuarios:
 
 Los usuarios elegidos han sido creados mediante la combinación de características de Role Play y usuarios de nuestro entorno.
 
