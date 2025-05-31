@@ -286,11 +286,20 @@ Para abordar esto, seleccionamos un grupo diverso de usuarios que realizarían t
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Para ello veremos la calificacion de las personas ficticias que hemos descrito anteriormente.
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Los resultados obtenidos se encuentran en [el siguiente fichero](P4/Cuestionario_SUS_DIU.xlsx).
+
+<img align="center" src="P4/Cuestionario_SUS_P4.png" alt="Resultados SUS"/>
+
+Podemos ver que ambas paginas han obtenido buenos resultados en el cuestionario SUS. Siendo Tela de Vida un poco superior en resultados.
+
+- Los resultados han quedado de la siguiente forma:
+     
+  - LogicEcologic: Eduardo -> 72.5 puntos | Felipe -> 82.5
+     - Total normalizado: 77.5
+  - Tela de Vida: Manuela -> 82.5 | Julián -> 80
+     - Total normalizado: 81.25
 
 
 ### 4.d A/B Testing
