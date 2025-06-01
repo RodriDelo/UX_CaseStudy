@@ -317,9 +317,9 @@ Para realizar el eyetracking hemos usado un plugin de Figma (NB Heatmap).
 
 Las tareas que deberan realizar los usuarios escogidos seran las siguientes:
 1. Tarea A: Realizar un pago completo
-[Pago](P4/Eyetracking.png)
+![Pago](P4/Eyetracking.png)
 2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de EcoArticulos.
-[Pago2](P4/Eyetracking2.png)
+![Pago2](P4/Eyetracking2.png)
 
 Los objetivos de este estudio son:
 * Identificar áreas de interés (AOI) en las interfaces de usuario.
