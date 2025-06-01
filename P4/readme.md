@@ -54,9 +54,11 @@ Los usuarios escogidos son Carmen y Jaime.
 
 Las tareas que deberan realizar los usuarios escogidos seran las siguientes:
 1. Tarea A: Realizar un pago completo
-[Pago](Eyetracking.png)
-2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de EcoArticulos.
-[Pago2](Eyetracking2.png)
+![Pago](Eyetracking.png)
+![Pago2](Eyetracking2.png)
+
+2. Tarea B: Consultar uno de los articulos de ropa
+![Ropa](Eyetracking3.png)
 
 Los objetivos de este estudio son:
 * Identificar áreas de interés (AOI) en las interfaces de usuario.
