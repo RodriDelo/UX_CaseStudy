@@ -286,7 +286,20 @@ Manuela, directora financiera racional de 42 años, utiliza su móvil para acced
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para hacer las pruebas de usabilidad y diversas características de ambas paginas hemos usado las sigueintes pruebas:
+
+   - 1⁰. Hemos cogido 4 personas con perfiles los cuales encajan con las respectivas páginas, para que la valoración sea lo mas equilibrada posible.
+   - Con estas personas hemos procedido a hacer el cuestionario SUS, donde basandonos en algunas preguntas ya predefinidas los usuarios valoraran su experiencia en la página. Con estas preguntas sacaremos una valoracion de ambas páginas para comprarlas.
+   - Para el A/B Testing hemos diseñado 5 pruebas con las cuales sacaremos una tabla y un resultado agregado global. Las pruebas son las siguientes:
+      - 1ra prueba, "Facilidad de añadir al carrito"
+      - 2da prueba, 2. Claridad y Detalle de los Productos, Descripciones ricas, bien estructuradas, con información clave del producto destacada y accesible.
+      - 3ra prueba, 3. Detalle de las Reseñas, Sección de reseñas completa con filtros de utilidad, la posibilidad de añadir comentario como valoración.
+      - 4ta prueba, Facilidad en el Proceso de Pago.
+      - 5ta prueba, Visibilidad de Productos Populares, Sección de "Productos Populares" destacada, intuitiva y actualizada regularmente en la página principal.
+
+Una vez hecha la valoración, procedemos a hacer el resultado agregado global. 
+
+Por ultimo, hemos hecho el test de Eye Tracking para hacer en las paginas un mapa de calor, donde podemos ver donde mas miran los clientes cuando esta  usando nuestra página.
 
 
 
