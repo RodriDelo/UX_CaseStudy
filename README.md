@@ -321,7 +321,8 @@ Las tareas que deberan realizar los usuarios escogidos seran las siguientes:
 ![Pago](P4/Eyetracking.png)
 ![Pago2](P4/Eyetracking2.png)
 
-2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de EcoArticulos.
+2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de Ropa.
+- En esta tarea comentar la necesidad de incluir una parte exclisivamente dedicada a la talla para que se vea rapidamente y obligatoriamente.
 
 ![Ropa](P4/Eyetracking3.png)
 
