@@ -323,6 +323,7 @@ Las tareas que deberan realizar los usuarios escogidos seran las siguientes:
 
 2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de EcoArticulos.
 
+![Ropa](P4/Eyetracking3.png)
 
 Los objetivos de este estudio son:
 * Identificar áreas de interés (AOI) en las interfaces de usuario.
