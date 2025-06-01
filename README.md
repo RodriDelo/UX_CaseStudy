@@ -273,6 +273,7 @@ Para abordar esto, seleccionamos un grupo diverso de usuarios que realizarían t
 | Manuela  | M / 42      | Directora financiera  | Media | Emocional | Móvil     | B
 
 **Historia de los Usuarios**
+
 Eduardo, un jubilado de 72 años, con poca experiencia en tecnología, utiliza su movil para explorar la plataforma. Persona extrovertida, que se interesa por los articulos ofrecidos y los valora como una oportunidad para aprender.
 
 Felipe, informático de 37 años, es introvertido y tiene un conocimiento alto en tecnología. Accede desde su portatil con Linux a la plataforma, disfrutando de la facilidad de comprar desde casa y leer EcoArticulos para inspirarse a llenar el carrito.
