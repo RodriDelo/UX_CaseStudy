@@ -272,6 +272,14 @@ Para abordar esto, seleccionamos un grupo diverso de usuarios que realizarían t
 | Julian   | H / 21        | Estudiante  | Alta        | Timido       | Windows    | B 
 | Manuela  | M / 42      | Directora financiera  | Media | Emocional | Móvil     | B
 
+**Historia de los Usuarios**
+Eduardo, un jubilado de 72 años, con poca experiencia en tecnología, utiliza su movil para explorar la plataforma. Persona extrovertida, que se interesa por los articulos ofrecidos y los valora como una oportunidad para aprender.
+
+Felipe, informático de 37 años, es introvertido y tiene un conocimiento alto en tecnología. Accede desde su portatil con Linux a la plataforma, disfrutando de la facilidad de comprar desde casa y leer EcoArticulos para inspirarse a llenar el carrito.
+
+Julian, un estudiante tímido de 21 años con alta experiencia en tecnología, utiliza Windows para acceder a la plataforma. Aunque reservado, valora la estructura clara y la facilidad de acceso a información sobre los productos.
+
+Manuela, directora financiera racional de 42 años, utiliza su móvil para acceder a la plataforma. Aprecia la organización lógica , la claridad en la presentación y precios a la vista.
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
