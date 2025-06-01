@@ -311,9 +311,6 @@ Los resultados han quedado de la siguiente forma:
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
----
-## 4.d A/B Testing
----
 
 Los resultados de un A/B testing con 5 pruebas y 2 casos o alternativas darían como resultado una tabla de 5 filas y 2 columnas, además de un resultado agregado global. A continuación, se especifica con claridad el resultado: ¿qué caso es más usable, A o B?
 
