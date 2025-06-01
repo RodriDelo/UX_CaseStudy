@@ -308,15 +308,23 @@ Los resultados han quedado de la siguiente forma:
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
+Este estudio de Eyetracking lo hemos llevado a cabo para analizar el comportamiento visual de los usuarios mientras realizan dos tareas diferentes en dos plataformas distintas.
+Los usuarios escogidos son Carmen y Jaime.
+- Carmen hará la tarea A.
+- Jaime hará la tarea B.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para realizar el eyetracking hemos usado un plugin de Figma (NB Heatmap).
 
+Las tareas que deberan realizar los usuarios escogidos seran las siguientes:
+1. Tarea A: Realizar un pago completo
+[Pago](P4/Eyetracking.png)
+2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de EcoArticulos.
+[Pago2](P4/Eyetracking2.png)
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
+Los objetivos de este estudio son:
+* Identificar áreas de interés (AOI) en las interfaces de usuario.
+* Analizar patrones de fijación y movimientos oculares.
+* Evaluar la usabilidad de las plataformas en función del comportamiento visual de los usuarios.
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
