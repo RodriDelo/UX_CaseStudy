@@ -48,14 +48,15 @@ Podemos ver que ambas paginas han obtenido buenos resultados en el cuestionario 
 
 ### Testing de Eyetracking: 
 Este estudio de Eyetracking lo hemos llevado a cabo para analizar el comportamiento visual de los usuarios mientras realizan dos tareas diferentes en dos plataformas distintas.
-Los usuarios escogidos son Felipe y Manuela.
+Los usuarios escogidos son Carmen y Jaime.
 - Carmen hará la tarea A.
 - Jaime hará la tarea B.
 
 Las tareas que deberan realizar los usuarios escogidos seran las siguientes:
-1. Tarea A: Acceder a el producto 'miel ecologica' a traves del buscador.
-
+1. Tarea A: Realizar un pago completo
+[Pago](Eyetracking.png)
 2. Tarea B: Consultar uno de los articulos que hay publicados en la seccion de EcoArticulos.
+[Pago2](Eyetracking2.png)
 
 Los objetivos de este estudio son:
 * Identificar áreas de interés (AOI) en las interfaces de usuario.
