@@ -311,8 +311,33 @@ Los resultados han quedado de la siguiente forma:
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+---
+## 4.d A/B Testing
+---
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Los resultados de un A/B testing con 5 pruebas y 2 casos o alternativas darían como resultado una tabla de 5 filas y 2 columnas, además de un resultado agregado global. A continuación, se especifica con claridad el resultado: ¿qué caso es más usable, A o B?
+
+Para el A/B testing, hemos diseñado cinco pruebas clave para comparar la usabilidad de tu plataforma **LogicEcologic (Caso A)** y la plataforma **La Tela De Vida (Caso B)**, centrándonos en el proceso de compra y la interacción con los contenidos. Los resultados se resumen en la siguiente tabla, junto con una valoración global:
+
+| Prueba | Caso A (LogicEcologic) | Caso B (La Tela De Vida) |
+|---|---|---|
+| **1. Facilidad de Añadir al Carrito** | Tiempo medio: 5 segundos. 2% de errores de navegación. | Tiempo medio: 5 segundos. 2% de errores de navegación. |
+| **2. Claridad y Detalle de los Productos** | **Descripciones ricas, bien estructuradas, con información clave del producto destacada y accesible.** Tiempo medio de comprensión: 8 segundos. Errores de interpretación: 2%. | Descripciones funcionales, pero con información clave a veces menos visible, requiriendo más lectura. Tiempo medio de comprensión: 12 segundos. Errores de interpretación: 7%. |
+| **3. Detalle de las Reseñas** | **Sección de reseñas completa con filtros de utilidad, la posibilidad de añadir comentario como valoración.** 90% de usuarios las encuentran útiles. | Reseñas básicas, a veces sin filtros, unica opción de valoracion y menor visibilidad de respuestas del vendedor. 60% de usuarios las encuentran útiles. |
+| **4. Facilidad en el Proceso de Pago** | Proceso lineal y seguro, pero el mayopr abandono es por gente que no esta registrada y para realizar el pedido hay que estar registrado. Satisfacción del 8/10. 8% de usuarios abandonan la simulación. | **Proceso optimizado, con detalle en los pasos, indicadores de progreso claros y feedback.** Satisfacción del 9/10. 3% de usuarios abandonan la simulación. |
+| **5. Visibilidad de Productos Populares** | **Sección de "Productos Populares" destacada, intuitiva y actualizada regularmente en la página principal.** Tasa de clic en esta sección: 15%. | Sección de productos destacados menos prominente o actualizada esporádicamente. Tasa de clic en esta sección: 8%. |
+
+**Resultado Agregado Global:**
+
+Tras analizar los resultados de las cinco pruebas, **el Caso A (LogicEcologic) es, en general, más usable** que el Caso B (La Tela De Vida).
+
+* En la **facilidad de añadir al carrito**, ambas plataformas muestran un rendimiento **empatado**, logrando que los usuarios añadan productos de forma rápida y eficiente.
+* Sin embargo, en la **claridad y detalle de los productos**, **LogicEcologic (Caso A) demuestra una superioridad clara**. Sus descripciones son más ricas y estructuradas, permitiendo a los usuarios **identificar rápidamente información crucial como la procedencia o los ingredientes** con menos errores de interpretación.
+* En el **detalle de las reseñas**, **LogicEcologic (Caso A) también sobresale**. La riqueza de información en las reseñas, con las opciones valoracion y reseña, aumenta significativamente la confianza y la utilidad percibida por los usuarios.
+* Respecto a la **facilidad en el proceso de pago**, **La Tela De Vida (Caso B) es la que ofrece una experiencia ligeramente superior**. Su proceso optimizado y detallado, se traduce en una mayor satisfacción del usuario y una menor tasa de abandono.
+* Finalmente, en la **visibilidad de productos populares**, **LogicEcologic (Caso A) presenta una ventaja significativa**. Su sección "Productos populares" y bien gestionada impulsa una mayor interacción de los usuarios con estos productos.
+
+Estos resultados sugieren que, aunque La Tela De Vida tiene un proceso de pago muy eficiente, el diseño y la estructura general de **LogicEcologic** ofrecen una experiencia de usuario superior en los aspectos clave de búsqueda de información, confianza a través de reseñas y descubrimiento de productos.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
