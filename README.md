@@ -339,7 +339,7 @@ Para el A/B testing, hemos diseñado cinco pruebas clave para comparar la usabil
 
 **Resultado Agregado Global:**
 
-Tras analizar los resultados de las cinco pruebas, **el Caso A (LogicEcologic) es, en general, más usable con 84% ** que el Caso B (La Tela De Vida) con 71%.
+Tras analizar los resultados de las cinco pruebas, **el Caso A (LogicEcologic) es, en general, más usable con 84%** que el Caso B (La Tela De Vida) con 71%.
 
 * En la **facilidad de añadir al carrito**, ambas plataformas muestran un rendimiento **empatado**, logrando que los usuarios añadan productos de forma rápida y eficiente.
 * Sin embargo, en la **claridad y detalle de los productos**, **LogicEcologic (Caso A) demuestra una superioridad clara**. Sus descripciones son más ricas y estructuradas, permitiendo a los usuarios **identificar rápidamente información crucial como la procedencia o los ingredientes** con menos errores de interpretación.
