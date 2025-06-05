@@ -49,7 +49,12 @@ Por ultimo, hemos hecho el test de Eye Tracking para hacer en las paginas un map
 
 ### 4.c Cuestionario SUS
 
-Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Para ello veremos la calificacion de las personas ficticias que hemos descrito anteriormente.
+Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Para ello veremos la calificacion de las personas ficticias que hemos descrito anteriormente sobre las siguientes tareas:
+
+   - Tarea A: Buscar un producto deseado.
+   - Tarea B: Consultar uno de los articulos que haya en la seccion de ropa.
+
+Tambien hemos dejado que los usuarios naveguen por ambas paginas libremente para calificar su usabilidad general y su facilidad de uso. Esto tambien influira levemente en los resultados del cuestionario SUS.
 
 Los resultados obtenidos se encuentran en [el siguiente fichero](Cuestionario_SUS_DIU.xlsx).
 
