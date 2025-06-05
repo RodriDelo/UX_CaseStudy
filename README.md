@@ -375,6 +375,39 @@ Los objetivos de este estudio son:
 * Analizar patrones de fijación y movimientos oculares.
 * Evaluar la usabilidad de las plataformas en función del comportamiento visual de los usuarios.
 
+
+### 4.f Usability Report de B
+
+**Valoración General:**
+
+La Tela De Vida es una plataforma visualmente atractiva y funcional, pero identificamos áreas clave para mejorar la experiencia del usuario.
+
+**Debilidades de Usabilidad y Recomendaciones:**
+
+Falta de confirmación visual (Visibilidad del Estado del Sistema):
+
+Problema: Al añadir artículos o registrarse, no siempre hay una confirmación clara de que la acción se ha realizado.
+Recomendación: Implementar notificaciones visuales (pop-ups, cambios de iconos) para confirmar cada acción del usuario.
+Dificultad para retroceder (Control y Libertad del Usuario):
+
+Problema: En procesos largos (inscripción a talleres, subida de prendas), los botones para volver atrás o cancelar no siempre son fáciles de encontrar.
+Recomendación: Asegurar que los botones de "volver" o "cancelar" sean siempre visibles y accesibles en cada paso de un proceso.
+Inconsistencia en el diseño (Consistencia y Estándares):
+
+Problema: Pequeñas variaciones en tipografías y estilos de botones en diferentes secciones de la plataforma.
+Recomendación: Estandarizar el diseño de todos los elementos (textos, botones) para una apariencia más pulcra y coherente.
+Información de producto poco destacada (Reconocimiento antes que Recuerdo):
+
+Problema: Tallas o el estado de la prenda no siempre son visibles en el listado, obligando al usuario a buscar en la descripción.
+Recomendación: Destacar visualmente la información clave (talla, estado, precio) directamente en los listados de productos.
+Ayuda limitada (Ayuda y Documentación):
+
+Problema: La sección de Preguntas Frecuentes (FAQ) no cubre todas las dudas sobre la calidad de las prendas o el funcionamiento detallado de los talleres.
+Recomendación: Ampliar la sección de FAQ con respuestas más detalladas y considerar tutoriales cortos para los procesos clave.
+Valoración Personal del Equipo LogicEcologic:
+
+Esta evaluación ha sido fundamental para nosotros, LogicEcologic. Nos permitió aplicar nuestros conocimientos de UX en un caso práctico, identificando oportunidades de mejora en la plataforma de nuestros compañeros. Fue una experiencia enriquecedora que profundizó nuestra comprensión de la usabilidad y la importancia de la evaluación constante.
+
 ## Paso 5. Exportación y Documentación 
 
 
