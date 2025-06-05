@@ -72,7 +72,7 @@ Para el A/B testing, hemos diseñado cinco pruebas clave para comparar la usabil
 
 | Prueba | Caso A (LogicEcologic) | Caso B (La Tela De Vida) |
 |---|---|---|
-| **1. Facilidad de Añadir al Carrito** | Tiempo medio: 5 segundos. 2% de errores de navegación. Valoración 8/10 | Tiempo medio: 5 segundos. 2% de errores de navegación. Valoración 8/10 |
+| **1. Facilidad de Añadir al Carrito (tiempo esperado=7s)** | Tiempo medio: 5 segundos. 2% de errores de navegación. Valoración 8/10 | Tiempo medio: 5 segundos. 2% de errores de navegación. Valoración 8/10 |
 | **2. Claridad y Detalle de los Productos** | **Descripciones ricas, bien estructuradas, con información clave del producto destacada y accesible.** Tiempo medio de comprensión: 8 segundos. Errores de interpretación: 2%. Valoración 8.5/10| Descripciones funcionales, pero con información clave a veces menos visible, requiriendo más lectura. Tiempo medio de comprensión: 12 segundos. Errores de interpretación: 7%. Valoración 6/10 |
 | **3. Detalle de las Reseñas** | **Sección de reseñas completa con filtros de utilidad, la posibilidad de añadir comentario como valoración.** 90% de usuarios las encuentran útiles. Valoracion 9/10| Reseñas básicas, a veces sin filtros, unica opción de valoracion y menor visibilidad de respuestas del vendedor. 60% de usuarios las encuentran útiles. Valoracion 6.5/10|
 | **4. Facilidad en el Proceso de Pago** | Proceso lineal y seguro, pero el mayopr abandono es por gente que no esta registrada y para realizar el pedido hay que estar registrado. Valoración 7.5/10. 8% de usuarios abandonan la simulación. | **Proceso optimizado, con detalle en los pasos, indicadores de progreso claros y feedback.** Valoración: 9/10. 3% de usuarios abandonan la simulación. |
